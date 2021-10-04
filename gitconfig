@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexandre.vrla@gmail.com
+	name = Alexandre Vrla
